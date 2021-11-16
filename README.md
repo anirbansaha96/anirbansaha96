@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbansaha96&label=Profile%20views&color=0e75b6&style=flat" alt="anirbansaha96" /> </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ddd1596-2ee9-41e9-8e08-66e3a186bf1e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirbansaha96" alt="anirbansaha96" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anirban12345" target="blank"><img src="https://img.shields.io/twitter/follow/anirban12345?logo=twitter&style=for-the-badge" alt="anirban12345" /></a> </p>
